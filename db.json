@@ -1,16 +1,5 @@
-{
-  "batchcomplete": true,
-  "continue": { "gpsoffset": 10, "continue": "gpsoffset||" },
-  "query": {
-    "redirects": [
-      {
-        "index": 4,
-        "from": "Sachin The Film",
-        "to": "Sachin: A Billion Dreams"
-      }
-    ],
-    "pages": [
-      {
+[
+     {
         "pageid": 57570,
         "ns": 0,
         "title": "Sachin Tendulkar",
@@ -20,7 +9,11 @@
           "width": 50,
           "height": 45
         },
-        "terms": { "description": ["Indian former cricketer"] }
+        "terms": {
+          "description": [
+            "Indian former cricketer"
+          ]
+        }
       },
       {
         "pageid": 6957873,
@@ -32,7 +25,11 @@
           "width": 39,
           "height": 50
         },
-        "terms": { "description": ["Indian politician"] }
+        "terms": {
+          "description": [
+            "Indian politician"
+          ]
+        }
       },
       {
         "pageid": 10730502,
@@ -45,7 +42,9 @@
           "height": 50
         },
         "terms": {
-          "description": ["Indian actor, director, producer, Writer, singer"]
+          "description": [
+            "Indian actor, director, producer, Writer, singer"
+          ]
         }
       },
       {
@@ -58,14 +57,22 @@
           "width": 50,
           "height": 38
         },
-        "terms": { "description": ["Indian actor"] }
+        "terms": {
+          "description": [
+            "Indian actor"
+          ]
+        }
       },
       {
         "pageid": 24361386,
         "ns": 0,
         "title": "Sachin Vaze",
         "index": 8,
-        "terms": { "description": ["Indian police officer"] }
+        "terms": {
+          "description": [
+            "Indian police officer"
+          ]
+        }
       },
       {
         "pageid": 42182160,
@@ -88,7 +95,11 @@
         "ns": 0,
         "title": "Sachin! Tendulkar Alla",
         "index": 3,
-        "terms": { "description": ["2014 film by Mohan Shankar"] }
+        "terms": {
+          "description": [
+            "2014 film by Mohan Shankar"
+          ]
+        }
       },
       {
         "pageid": 50125865,
@@ -106,9 +117,16 @@
         "ns": 0,
         "title": "Sachintha Peiris",
         "index": 5,
-        "terms": { "description": ["cricketer"] }
+        "terms": {
+          "description": [
+            "cricketer"
+          ]
+        }
       },
-      { "pageid": 61165764, "ns": 0, "title": "Sachin Tanwar", "index": 2 }
+      {
+        "pageid": 61165764,
+        "ns": 0,
+        "title": "Sachin Tanwar",
+        "index": 2
+      }
     ]
-  }
-}
