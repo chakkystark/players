@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         
         primarySwatch: Colors.pink,
-        accentColor: Colors.lightGreen,
+        accentColor: Colors.amber,
       ),
       home: JsonParse(),
     );
